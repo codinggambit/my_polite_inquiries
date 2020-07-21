@@ -1,3 +1,3 @@
-# This is an Non-Resident Alien based Rant
+# This is just an opinion page. 
 
 I'm glad you are here. I plan to talk about issues that have huge concern to me...
