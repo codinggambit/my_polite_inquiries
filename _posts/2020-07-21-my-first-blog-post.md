@@ -9,4 +9,6 @@ Since I don't have the time to do so. I will use content already available.
 Here is my first find
 
 Please follow the podcast and spread the word
-https://wethelegalpodcast.com/
+website: https://wethelegalpodcast.com/
+twitter: https://twitter.com/wethelegal
+facebook: https://www.facebook.com/wethelegal
