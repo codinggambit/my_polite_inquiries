@@ -1,3 +1,9 @@
+---
+title: "Spreading the word"
+date: 2020-07-21
+---
+
+
 I would love to have the time to generate content myself.
 Since I don't have the time to do so. I will use content already available.
 Here is my first find
