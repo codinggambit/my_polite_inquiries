@@ -1,13 +1,13 @@
 ---
-title: "Immigration Voice"
-date: 2020-07-21
+title: "GC Reform"
+date: 2020-07-22
 ---
 
 
 This has been an integral part of keeping people informed and updated on  
-the activity from all the immigrants
+all things Green Card Equity 
 
 Please follow the movement and spread the word  
-[Website](https://immigrationvoice.org/)  
-[Twitter](https://twitter.com/immivoice)  
-[Facebook](https://www.facebook.com/ImmigrationVoice)
+[Website](https://www.gcreforms.org/)  
+[Twitter](https://twitter.com/gcreforms)  
+[Facebook](https://www.facebook.com/GCReforms)
