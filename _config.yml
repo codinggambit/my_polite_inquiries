@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-feed
 title: Legal Immigration   
 author: codinggambit
 email: jayraohere@gmail.com
