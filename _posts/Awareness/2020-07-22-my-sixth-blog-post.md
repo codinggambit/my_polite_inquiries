@@ -9,5 +9,5 @@ the activity from all the immigrants in Illinois
 
 Please follow the movement and spread the word  
 [Website](https://www.immiforum.org/)  
-[Twitter](https://twitter.com/IIFImmigration)  
+[Twitter](https://twitter.com/ILImmiForum)  
 [Facebook](https://www.facebook.com/llinoisImmigrationForum/)
