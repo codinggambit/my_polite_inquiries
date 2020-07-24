@@ -1,4 +1,4 @@
-# This is a blog on all things related to Legal Immigration
+# This is a blog on all things related to questioning everything
 
 This will be used for adding all information for the blog. 
 
