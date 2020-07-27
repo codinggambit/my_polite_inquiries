@@ -11,7 +11,6 @@ Please follow my activity:
 [Instagram](https://www.instagram.com/pret_connoissuer/)  
 
 Some interesting posts I found over the years  
-
 [Facebook](https://www.facebook.com/forethoughtandhindsight)
 
 
