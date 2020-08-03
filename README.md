@@ -1,4 +1,4 @@
-# This is a blog on all things related to questioning everything
+# This is a blog on all things related to being inquisitive
 
 This will be used for adding all information for the blog. 
 
