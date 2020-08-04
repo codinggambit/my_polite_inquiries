@@ -1,6 +1,11 @@
 plugins:
   - jekyll-feed
-title: My opinions 
+  - jekyll-twitter-plugin
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
+title: Thought processes
 author: codinggambit
 email: jayraohere@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -18,10 +23,3 @@ theme: minima
 # Google Analytics
 google_analytics: UA-174451722-1
 
-# plugins
-plugins: 
-  - jekyll-twitter-plugin
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-assets
-  - another-jekyll-plugin
