@@ -13,3 +13,6 @@ github_username:  codinggambit # DO NOT include the @ character, or else the bui
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+# Google Analytics
+google_analytics: UA-174451722-1
