@@ -10,9 +10,18 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: sanjaysrao88 # DO NOT include the @ character, or else the build will fail!
 github_username:  codinggambit # DO NOT include the @ character, or else the build will fail!
+linkedin_username: sansrao
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
 # Google Analytics
 google_analytics: UA-174451722-1
+
+# plugins
+plugins: 
+  - jekyll-twitter-plugin
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
