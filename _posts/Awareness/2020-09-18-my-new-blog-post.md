@@ -20,7 +20,7 @@ There is also an app called [Donate a Photo](https://lnkd.in/gtTr9Hh) by Johnson
 
 Move from [amazon.com](https://www.amazon.com/) to [smile.amazon.com](https://smile.amazon.com/) and donate a little to a charity of your choice.
 
-I have started doing:
+I have started doing:  
 i. 30 Minute Walks  
 ii. 1 Gallon Water a day  
 iii. Cold Showers 3 days a week  
