@@ -1,7 +1,8 @@
 ---
 title: "My 2 cents on how to cope with 2020"
 date: 2020-09-18
----
+---  
+
 I have been evaluating a lot during the pandemic with regards to what matters most to me with all things ongoing.
 
 I found this wonderful 
