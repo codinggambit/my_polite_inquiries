@@ -1,5 +1,5 @@
 ---
-title: "The art of Negotiation"
+title: "The Art of Negotiation"
 date: 2020-09-17
 ---  
 I have heard a lot about negotiation. One thing I learnt now is its all an art of framing the narrative.  
