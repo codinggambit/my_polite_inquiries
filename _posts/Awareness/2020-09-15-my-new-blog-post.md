@@ -3,10 +3,10 @@ title: "Adding awareness for data privacy"
 date: 2020-09-15
 ---  
 
-Found that keeping myself posted on my own progress and getting a boost to my [future self](https://www.futureme.org/):
+Found that keeping myself posted on my own progress and getting a boost to my [future self](https://www.futureme.org/)
 
 
-Your data privacy is very important. Found 2 great documentaries:
+Your data privacy is very important. Found 2 great documentaries:  
 [Great Hack](https://lnkd.in/gqTjQVz)  
 [Social Dilemma](https://lnkd.in/g4mV_nG)  
 
