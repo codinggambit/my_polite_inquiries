@@ -1,4 +1,3 @@
-
 ---
 title: "Bringing up a 11ax Sniffer"
 date: 2020-11-26
