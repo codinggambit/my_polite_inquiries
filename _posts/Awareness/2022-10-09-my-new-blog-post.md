@@ -10,8 +10,8 @@ I found this wonderful
 
 Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
 
-Lets all aspire to:
-Be kind to somebody
-Be helpful to somebody
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
 Be mindful about what you are doing
 
