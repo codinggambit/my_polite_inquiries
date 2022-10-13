@@ -1,5 +1,5 @@
 ---
-title: "Continuing my journey of self check in"
+title: "Self Check In Daily"
 date: 2022-10-11
 ---  
 
