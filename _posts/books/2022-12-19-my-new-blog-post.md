@@ -4,7 +4,7 @@ date: 2022-12-19
 ---
 
 
-I love audiobooks and this is my list:  
+I love audiobooks and this is my list for 2022:  
 [Sabrina and Corina](https://www.amazon.com/Sabrina-Corina-Stories-Kali-Fajardo-Anstine/dp/0525511296?pldnSite=1)  
 [Educated: A Memoir](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590528/ref=sr_1_1?crid=16EGMIC1MSAXG&keywords=educated&qid=1671514252&s=books&sprefix=e%2Cstripbooks%2C433&sr=1-1)  
 [Sparked](https://www.amazon.com/Sparked-Discover-Unique-Imprint-Makes-ebook/dp/B08NHXVNRW/ref=sr_1_1?crid=5LT7UYR7GV6Z&keywords=sparked+jonathan+fields&qid=1671514366&s=books&sprefix=sparked%2Cstripbooks%2C163&sr=1-1)  
