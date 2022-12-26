@@ -2,6 +2,7 @@
 title: "My Opinion on why I do what I do"
 date: 2020-08-11
 ---
+My Take on 2020  
 
 Why:
 I have had issues myself with mental health and I feel like I need to spread awareness about the same.  
