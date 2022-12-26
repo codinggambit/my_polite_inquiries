@@ -3,7 +3,8 @@ title: "Learning Spanish Day 1"
 date: 2022-12-24
 ---  
 
-Conversation Tracking and Logging:
+Conversation Tracking and Logging:  
+
 Aquí hay un ejemplo de una conversación en español de 500 palabras entre dos amigos, 
 Marta y Roberto, que han estado trabajando juntos en un proyecto escolar durante las últimas semanas:
 
