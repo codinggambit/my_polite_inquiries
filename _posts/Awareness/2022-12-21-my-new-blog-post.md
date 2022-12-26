@@ -5,25 +5,25 @@ date: 2022-12-21
 
 10 things to focus on for being a Good Interviewer 
 
-    Prepare in advance: Research the company and the position, as well as the person you will be interviewing. Make a list of questions to ask and bring copies of your resume and any other relevant documents.
+    Prepare in advance: Research the candidate and the position, as well as the company's policies and procedures. Make a list of questions to ask and have any relevant documents or materials ready.
 
-    Dress appropriately: Wear professional attire that is appropriate for the company and position.
+    Create a welcoming environment: Make sure the interview space is comfortable and conducive to conversation. Offer water or coffee and introduce yourself and your role at the company.
 
-    Arrive on time: Plan to arrive at least 10-15 minutes early to give yourself time to settle in and calm your nerves.
+    Ask open-ended questions: Avoid yes/no questions and try to ask questions that will give the candidate the opportunity to share their experiences and ideas.
 
-    Be friendly and confident: Greet the interviewer with a firm handshake and make eye contact. Answer questions confidently and try to relax and be yourself.
+    Listen actively: Pay attention to the candidate's responses and use nonverbal cues to show you are engaged in the conversation.
 
-    Listen carefully: Pay attention to the questions being asked and take a moment to think before answering. Make sure to fully address the question and provide relevant examples.
+    Avoid bias: Be aware of your own biases and try to remain impartial during the interview. Use structured questions and evaluation criteria to ensure fairness.
 
-    Ask questions: Show your interest in the company and the position by asking thoughtful questions. Avoid asking about salary or benefits too early in the process.
+    Be open and transparent: Share information about the company and the position, as well as the expectations and requirements of the role.
 
-    Be honest: Don't try to exaggerate your skills or experience. It's better to be honest and genuine than to try to oversell yourself.
+    Provide feedback: Offer constructive feedback and give the candidate the opportunity to ask questions and clarify any points.
 
-    Be positive: Keep a positive attitude and focus on your strengths and accomplishments. Avoid complaining or speaking negatively about past employers or colleagues.
+    Stay on track: Try to stay on schedule and avoid getting sidetracked or spending too much time on any one topic.
 
-    Follow up: Thank the interviewer for their time and consider sending a follow-up email or letter reiterating your interest in the position and highlighting your qualifications.
+    Take notes: It can be helpful to take notes during the interview to help you remember key points and to make it easier to compare candidates.
 
-    Practice: Consider practicing with a friend or family member to get comfortable with the interview process and improve your communication skills.
+    Follow up: Thank the candidate for their time and consider sending a follow-up email or letter outlining next steps in the hiring process.
 
 Video Inspiration [Youtube](https://www.youtube.com/watch?v=WDOQBPYEaNs)
 
