@@ -1,6 +1,6 @@
 ---
 title: "What are the different WiFi Standards?"
-date: 2020-12-17
+date: 2022-12-17
 ---
 
 Different WiFi Standards
