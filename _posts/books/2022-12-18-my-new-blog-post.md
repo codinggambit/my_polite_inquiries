@@ -5,7 +5,8 @@ date: 2022-12-18
 
 
 I love audiobooks and this is my list for 2023:    
-[Power and Prediction: The Disruptive Economics of Artificial Intelligence] (https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192)  
+
+[Power and Prediction: The Disruptive Economics of Artificial Intelligence](https://www.amazon.com/Power-Prediction-Disruptive-Artificial-Intelligence/dp/1647824192)  
 [Undelivered: The Never-Heard Speeches That Would Have Rewritten History](https://www.amazon.com/Undelivered-Never-Heard-Speeches-Rewritten-History/dp/1250240700/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1668785027&sr=1-1)  
 [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime ](https://www.amazon.com/Something-Deeply-Hidden-Emergence-Spacetime/dp/1524743011/ref=sr_1_1?crid=DX99MTCTAH3S&keywords=something+deeply+hidden+sean+carroll&qid=1668785063&s=books&sprefix=something+deep%2Cstripbooks%2C93&sr=1-1)  
 [Happier Hour: How to Beat Distraction, Expand Your Time, and Focus on What Matters Most ](https://www.amazon.com/Happier-Hour-Distraction-Expand-Matters/dp/1982148802/ref=sr_1_1?crid=27RENTM9NFN2G&keywords=happier+hour+book+cassie+holmes&qid=1668785099&s=books&sprefix=happier+hour%2Cstripbooks%2C81&sr=1-1) 
