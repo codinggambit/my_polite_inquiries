@@ -1,5 +1,5 @@
 ---
-title: "AI Blog Post In Daily"
+title: "AI Blog Post Day 1"
 date: 2022-12-25
 ---  
 
