@@ -3,7 +3,8 @@ title: "Learning Spanish Day 0"
 date: 2022-12-23
 ---  
 
-Conversation Tracking and Logging:
+Conversation Tracking and Logging:  
+
 Buenos días, ¿cómo estás hoy?  
   
 Hola, estoy bien gracias. ¿Y tú?  
