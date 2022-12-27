@@ -10,3 +10,7 @@ I found this wonderful platform from Nvidia
 
 Thanks to NViDiA and [Arrow](https://www.arrow.com/en/products/945-13541-0000-000/nvidia) for letting me buy it.
 
+[Guide](http://wifi.hypergeek.net/you-too-can-have-a-sub-200-11ax-client/) to Bring it up 11ax Sniffer
+
+Capturing the traffic [Guide](https://semfionetworks.com/blog/80211ax-remote-packet-captures-using-the-jetson-nano/)
+
