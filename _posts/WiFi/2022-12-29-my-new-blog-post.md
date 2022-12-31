@@ -3,7 +3,10 @@ title: "WiFi Mesh 11ax Router Pick"
 date: 2022-12-29
 ---  
 
-There are many WiFi 6 mesh routers on the market that would be suitable for a two-story home. Here are a few options to consider:
+There are many WiFi 6 mesh routers on the market that would be suitable for a two-story home. 
+
+Here are a few options to consider:  
+
 	Netgear Orbi WiFi 6 Mesh Router (RBK852): This mesh router has a high speed of up to 3Gbps and covers up to 5,000 square feet. It uses WiFi 6 technology to deliver fast and reliable WiFi throughout your home.
 	TP-Link Deco X60 WiFi 6 Mesh Router: This router is capable of delivering fast WiFi speeds of up to 3Gbps and covers up to 6,500 square feet. It uses advanced mesh technology to ensure seamless WiFi coverage throughout your home.
 	Asus ZenWiFi XT8 WiFi 6 Mesh Router: This router has a high speed of up to 5.4Gbps and covers up to 5,500 square feet. It uses WiFi 6 technology to deliver fast and reliable WiFi throughout your home.
