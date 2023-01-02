@@ -30,7 +30,7 @@ Emergency whistle: Bring a whistle to signal for help in case of an emergency.
 More valuable insight from [REI](https://www.rei.com/learn/expert-advice/ten-essentials.html)
 
 
-Video Inspiration [Youtube]([https://www.youtube.com/watch?v=Nj-hdQMa3uA](https://www.ted.com/talks/robert_bruce_if_you_need_ideas_take_a_hike))  
+Video Inspiration [TED](https://www.ted.com/talks/robert_bruce_if_you_need_ideas_take_a_hike)  
 
 
 Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)  
