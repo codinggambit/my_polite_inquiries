@@ -1,6 +1,6 @@
 ---
 title: "AI Blog Post Day 3"
-date: 2022-12-29
+date: 2022-12-30
 ---  
 
 Essentials to think about for hiking  
