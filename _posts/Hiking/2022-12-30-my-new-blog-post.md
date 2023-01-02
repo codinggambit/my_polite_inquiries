@@ -1,9 +1,10 @@
 ---
-title: "AI Blog Post Day 3"
+title: "Hiking Essentials"
 date: 2022-12-30
 ---  
 
 Essentials to think about for hiking  
+
 Navigation: map, compass, altimeter, GPS device, personal locator beacon (PLB) or satellite messenger  
 Headlamp: plus extra batteries  
 First aid including foot care and insect repellent (as needed)  
@@ -15,6 +16,7 @@ Extra water Beyond the minimum expectation
 Extra clothes Beyond the minimum expectation  
   
 The core necessities of hiking:  
+
 Proper footwear: Choose hiking boots or shoes that are comfortable, fit well, and provide good support.  
 Clothing: Dress in layers to stay warm and dry, and bring extra clothes in case of changing weather conditions.  
 Backpack: Choose a backpack that is the right size for your needs, and pack it with all the essentials.  
