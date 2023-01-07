@@ -91,8 +91,8 @@ EWR is very good in terms of immigration re-entry handling
 *How far ahead was the earliest availability when you scheduled for appointments?*  
 Couple of weeks  
 
-*Documents and Questions Asked:  
-*I-797 and Passport along with appointment Confirmation  
+*Documents and Questions Asked:*  
+*I-797 and Passport along with appointment Confirmation*  
 If you have an older passport, carry that with you as well [if it has a visa which is still valid]  
 i. What is your role?  
 ii. How long have you been working for the company?  
