@@ -15,3 +15,11 @@ Please reach out to me [here](mailto:jobhuntingduringtoughtimes@gmail.com)
 I loved the insight and here is the [blog](http://www.onedayonejob.com/)  
 
 And here is the [Facebook Group](https://www.facebook.com/groups/3190591167643415) you definitely want to check out
+
+
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
