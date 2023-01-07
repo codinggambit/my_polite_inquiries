@@ -13,4 +13,11 @@ Please follow my activity:
 Some interesting posts I found over the years:  
 [Facebook](https://www.facebook.com/forethoughtandhindsight)
 
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
+
 
