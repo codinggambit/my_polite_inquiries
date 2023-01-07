@@ -23,3 +23,11 @@ there is a lot of stress at work and expectations to deliver on time. I must str
 million people who are battling the same situation every day in a broken system since none of it is really under their control. If you ask me  
 today “Is, it all worth it?” I would say “Yes”. I am trying to make a difference because I don’t want to be the person who sits around and  
 complains about things not being the way they should be.
+
+
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
