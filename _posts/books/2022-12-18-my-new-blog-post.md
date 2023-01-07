@@ -19,3 +19,11 @@ I love audiobooks and this is my list for 2023:
 [The Power Law: Venture Capital and the Making of the New Future ](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X/ref=sr_1_1?crid=1HOWI8N3OR6MT&keywords=the+power+law+sebastian+mallaby&qid=1668785267&s=books&sprefix=the+power+law%2Cstripbooks%2C92&sr=1-1)  
 [The Conscience Code](https://wsp.wharton.upenn.edu/book/the-conscience-code/)  
 [Springboard](https://wsp.wharton.upenn.edu/book/springboard/)
+
+
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
