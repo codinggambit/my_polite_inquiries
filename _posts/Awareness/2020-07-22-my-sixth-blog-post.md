@@ -11,3 +11,11 @@ Please follow the movement and spread the word
 [Website](https://www.immiforum.org/)  
 [Twitter](https://twitter.com/ILImmiForum)  
 [Facebook](https://www.facebook.com/llinoisImmigrationForum/)
+
+
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
