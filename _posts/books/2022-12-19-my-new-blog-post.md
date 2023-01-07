@@ -19,3 +19,11 @@ I love audiobooks and this is my list for 2022:
 [Adult Children of Emotionally Immature Parents](https://www.amazon.com/Adult-Children-Emotionally-Immature-Parents/dp/B01F2L1HLM/ref=sr_1_1?crid=2R01C70JPEBND&keywords=adult+children+of+emotionally+immature+parents&qid=1671514920&s=audible&sprefix=adult%2Caudible%2C154&sr=1-1)  
 [The Kite Runner](https://www.amazon.com/The-Kite-Runner-Khaled-Hosseini-audiobook/dp/B0000BZ2U8/ref=sr_1_1?crid=NABIIMH3JUWQ&keywords=the+kite+runner+by+khaled+hosseini&qid=1671515014&s=audible&sprefix=kite+runner%2Caudible%2C158&sr=1-1)  
 [Daring Greatly](https://www.amazon.com/Daring-Greatly-Brene-Brown-audiobook/dp/B07DX6TNR1/ref=sr_1_1?keywords=daring+greatly+by+brene+brown&qid=1671515087&s=audible&sprefix=darin%2Caudible%2C163&sr=1-1)
+
+
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
