@@ -17,3 +17,10 @@ I found this wonderful
 [TEDx talk](https://lnkd.in/gRJZYk4)  
 
 This was the other [one](https://www.youtube.com/watch?v=4E_1AB1rsSw)
+
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
