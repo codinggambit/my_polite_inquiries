@@ -5,7 +5,7 @@ date: 2023-01-04
 
 *Volunteering for Housing with Habitat for Humanity Story:*
 
-As a volunteer with Habitat for Humanity, I participated in a variety of tasks to make a positive impact in the King County community. Before I decided to volunteer, he researched organizations and found out about Habitat for Humanity, a nonprofit organization that works to provide housing for people in need. As a volunteer, I helped build homes for families who might not otherwise have been able to afford it.
+As a volunteer with Habitat for Humanity, I participated in a variety of tasks to make a positive impact in the King County community. Before I decided to volunteer, I researched organizations and found out about Habitat for Humanity, a nonprofit organization that works to provide housing for people in need. As a volunteer, I helped build homes for families who might not otherwise have been able to afford it.
 
 One of the most rewarding experiences I have had as a Habitat for Humanity volunteer was working on a home building project for a low-income family. The family's home was in need of significant work, including a new roof, new windows, and new siding. Working alongside a team of other volunteers, we were able to complete a segment of the work in just a few days, giving the family and the team support in building a safe and secure place to live. It was truly fulfilling to see the transformation in the home and to know that we had made a real difference in the lives of the family.
 
