@@ -14,3 +14,11 @@ Thanks to NViDiA and [Arrow](https://www.arrow.com/en/products/945-13541-0000-00
 
 Capturing the traffic [Guide](https://semfionetworks.com/blog/80211ax-remote-packet-captures-using-the-jetson-nano/)
 
+Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
+
+Lets all aspire to:  
+Be kind to somebody  
+Be helpful to somebody  
+Be mindful about what you are doing
+
+
