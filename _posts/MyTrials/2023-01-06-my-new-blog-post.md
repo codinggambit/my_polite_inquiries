@@ -1,6 +1,6 @@
 ---
 title: "Program Management for Machine Learning Part 1 "
-date: 2023-01-05
+date: 2023-01-06
 ---  
 
 What is the difference between Data Science, Machine Learning, Artificial Intelligence projects?
