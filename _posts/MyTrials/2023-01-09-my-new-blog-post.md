@@ -2,7 +2,7 @@
 title: "Program Management for Machine Learning Part 4 "
 date: 2023-01-09
 ---  
-How might I use an agile framework for ML projects?
+How might I use an agile framework for ML/AI/Data Science projects?
 
 An Agile framework can be used to manage machine learning (ML) projects by incorporating some key principles and practices. Here are some ways in which an agile framework can be applied to ML projects:
 
