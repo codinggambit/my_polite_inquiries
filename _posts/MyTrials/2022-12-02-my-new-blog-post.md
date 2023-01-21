@@ -4,6 +4,7 @@ date: 2022-12-02
 ---  
 
 Linkedin Help  
+
 [Things to do after getting Laidoff](https://www.linkedin.com/feed/update/urn:li:activity:7021838129410052096/)  
 [List of Referral Generation Links](https://lnkd.in/gsiWxfXp)  
 [List of Helpful Info](https://lnkd.in/gC-wxMdj)  
@@ -12,6 +13,7 @@ Linkedin Help
 
 
 List of Links  
+
 [Google Sheet](https://docs.google.com/spreadsheets/d/1xDB_Tzg8LVwrZbRAL8VJEMGDo2srQEcQJtJeyWPRuTg/htmlview?pli=1&utm_medium=social&utm_source=campsite.bio&utm_campaign=%22Who+is+hiring?%22+List#gid=0)  
 [Levelup Tracker](https://docs.google.com/spreadsheets/d/1Yg6s3WvHKYrHpUffCm-zZvxJ16c7ZJNq6XJilFMilrs/edit#gid=1051830884)  
 [Robotics Companies List](https://docs.google.com/spreadsheets/d/1nhG06qMDjpsu-09QA1rpYrbzqtzNe9-xXZD_21QaPJ4/edit#gid=0)  
