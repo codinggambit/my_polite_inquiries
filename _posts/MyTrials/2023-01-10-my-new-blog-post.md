@@ -36,7 +36,7 @@ Best websites to find jobs at startups
 
 Best websites to find freelance projects - 
 
-⚡️ [Freelancer](https://lnkd.in/gNSdzQj7)
+⚡️ [Freelancer](https://lnkd.in/gNSdzQj7)  
 ⚡️ [Fiverr](https://lnkd.in/g6xZwbjT)  
 ⚡️ [PeoplePerHour](https://lnkd.in/gHWppdzQ)  
 ⚡️ [oDeskwork](https://odeskwork.com/)  
