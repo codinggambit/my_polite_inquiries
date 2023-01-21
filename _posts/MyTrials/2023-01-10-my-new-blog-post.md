@@ -4,15 +4,15 @@ date: 2023-01-10
 ---  
 
 
-Technical Interview: free tools that will help you prepare:  
- 
-⚡️ HackerRank   
-⚡️ LeetCode  
-⚡️ GeeksforGeeks   
-⚡️ CodeSignal   
-⚡️ Coderbyte   
-⚡️ Pramp   
- 
+Technical Interview: free tools that will help you prepare:  
+
+⚡️ HackerRank  
+⚡️ LeetCode  
+⚡️ GeeksforGeeks  
+⚡️ CodeSignal  
+⚡️ Coderbyte  
+⚡️ Pramp  
+
 Best websites to learn web development  
 
 ⚡️ [Scrimba](https://scrimba.com/)  
