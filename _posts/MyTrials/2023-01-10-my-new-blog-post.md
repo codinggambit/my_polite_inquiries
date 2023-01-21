@@ -13,7 +13,7 @@ Technical Interview: free tools that will help you prepare:
 ⚡️ Coderbyte  
 ⚡️ Pramp  
 
-Best websites to learn web development  
+Best websites to learn web development:  
 
 ⚡️ [Scrimba](https://scrimba.com/)  
 ⚡️ [W3Schools](https://www.w3schools.com/)  
@@ -22,7 +22,7 @@ Best websites to learn web development
 ⚡️ [CryptoZombies](https://cryptozombies.io/)  
 ⚡️ [Rapid API](https://rapidapi.com/)  
 
-Best websites to find jobs at startups 
+Best websites to find jobs at startups:  
 
 ⚡️ [AngelList](https://angel.co/)  
 ⚡️ [MyWays](https://myways.ai/)  
@@ -34,7 +34,7 @@ Best websites to find jobs at startups
 ⚡️ [Y Combinator](https://lnkd.in/gEs43wnh)  
 ⚡️ [Search Startup Jobs](https://lnkd.in/ggeEqA2j)  
 
-Best websites to find freelance projects - 
+Best websites to find freelance projects: 
 
 ⚡️ [Freelancer](https://lnkd.in/gNSdzQj7)  
 ⚡️ [Fiverr](https://lnkd.in/g6xZwbjT)  
