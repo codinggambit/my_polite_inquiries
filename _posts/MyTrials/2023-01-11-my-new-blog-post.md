@@ -10,7 +10,7 @@ How might I use an agile framework with Technical Project and Program Managers w
 Interview Questions and Answers for Technical Project and Program Managers  
 [GPT answers](https://gpt.best/1Aks0MVU)  
 
-Generating your own GPT Link
+Generating your own GPT Link  
 [GPTBest](https://gpt.best/)  
 [Chrome Extenstion](https://chrome.google.com/webstore/detail/gptbest/lfjehajehlondfmmdnacgomigbkfahln)  
 
