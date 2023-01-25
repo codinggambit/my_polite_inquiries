@@ -12,7 +12,7 @@ Interview Questions and Answers for Technical Project and Program Managers
 
 Generating your own GPT Link  
 [GPTBest](https://gpt.best/)  
-[Chrome Extenstion](https://chrome.google.com/webstore/detail/gptbest/lfjehajehlondfmmdnacgomigbkfahln)  
+[Chrome Extension](https://chrome.google.com/webstore/detail/gptbest/lfjehajehlondfmmdnacgomigbkfahln)  
 
 You can use the following steps to create a link without installing the extension.
 
