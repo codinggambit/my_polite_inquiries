@@ -1,6 +1,6 @@
 ---
 title: "Bluetooth Standards Part 2"
-date: 2021-09-26
+date: 2021-09-28
 ---  
 
 Bluetooth technology has evolved over time, resulting in several different standards. The main ones are:
