@@ -1,3 +1,3 @@
 
-Pleasure to meet ya!! I plan to raise awareness about issues which impact me daily...
+Pleasure to meet ya!! Looking forward to working with you and creating a more people centric workplaces using Data.
 
