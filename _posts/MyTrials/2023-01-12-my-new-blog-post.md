@@ -22,18 +22,18 @@ Building a product involves several steps, including:
     
 Steps towards making it happen:
 
-   Strategize
-   Research
-   Ideate
-   Roadmap
-   Plan
-   Design
-   Develop
-   Launch
-   Analyze
-   Teamwork
+   Strategize  
+   Research  
+   Ideate  
+   Roadmap  
+   Plan  
+   Design  
+   Develop  
+   Launch  
+   Analyze  
+   Teamwork  
   
-[Product Management Tools] (https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use)    
+[Product Management Tools](https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use)    
 
 Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)  
 
