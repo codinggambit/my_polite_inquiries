@@ -4,7 +4,9 @@ date: 2021-02-03
 ---  
 
 
-Firmware interrupt handling is a mechanism for responding to events that require immediate attention in a firmware-controlled device. Interrupts are signals that cause the microcontroller to temporarily stop its current task and perform a specific interrupt service routine (ISR) to handle the event.
+Firmware interrupt handling is a mechanism for responding to events that require immediate attention in a firmware-controlled device.   
+
+Interrupts are signals that cause the microcontroller to temporarily stop its current task and perform a specific interrupt service routine (ISR) to handle the event.
 
 Interrupts can be triggered by events such as:
 
