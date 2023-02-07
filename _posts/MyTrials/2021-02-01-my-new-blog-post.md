@@ -4,7 +4,9 @@ date: 2021-02-01
 ---  
 
 
-Firmware microcontroller programming is the process of writing low-level code to control the behavior of a microcontroller, which is a small computer integrated into a device. The firmware controls the microcontroller's interactions with the device's hardware components, such as sensors, actuators, and other devices.
+Firmware microcontroller programming is the process of writing low-level code to control the behavior of a microcontroller, which is a small computer integrated into a device.   
+
+The firmware controls the microcontroller's interactions with the device's hardware components, such as sensors, actuators, and other devices.
 
 Common programming languages used for firmware microcontroller programming include:
 
