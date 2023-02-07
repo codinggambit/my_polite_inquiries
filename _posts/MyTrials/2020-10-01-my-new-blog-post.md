@@ -3,7 +3,9 @@ title: "Firmware Design"
 date: 2020-10-01
 ---  
 
-Firmware design is the process of creating the low-level software that controls a device. It is typically integrated into the device's hardware and provides the necessary control and functionality to interact with the device's hardware components.
+Firmware design is the process of creating the low-level software that controls a device.   
+
+It is typically integrated into the device's hardware and provides the necessary control and functionality to interact with the device's hardware components.
 
 Basic concepts in firmware design include:
 
