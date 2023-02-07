@@ -3,7 +3,9 @@ title: "Continuing my journey of self check in"
 date: 2022-10-10
 ---  
 
-Mental health self-check-in is a process of regularly assessing one's own emotional and psychological well-being. It is a proactive approach to monitoring and maintaining mental health and can help individuals identify potential concerns and address them early on.
+Mental health self-check-in is a process of regularly assessing one's own emotional and psychological well-being.  
+
+It is a proactive approach to monitoring and maintaining mental health and can help individuals identify potential concerns and address them early on.
 
 The self-check-in process typically involves:
 
