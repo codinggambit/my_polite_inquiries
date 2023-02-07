@@ -3,7 +3,9 @@ title: "AI Blog Post Day 1"
 date: 2022-12-25
 ---  
 
-There are many algorithms that are used in artificial intelligence (AI) and machine learning, and the "top" algorithms can vary depending on the specific application or field. Here is a list of ten algorithms that are commonly used in AI and machine learning:  
+There are many algorithms that are used in artificial intelligence (AI) and machine learning, and the "top" algorithms can vary depending on the specific application or field.  
+
+Here is a list of ten algorithms that are commonly used in AI and machine learning:  
 
     Gradient Boosting: This is a type of ensemble learning algorithm that can be used for classification and regression. It is often used in conjunction with decision trees.  
 
