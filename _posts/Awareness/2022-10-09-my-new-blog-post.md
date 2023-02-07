@@ -3,7 +3,7 @@ title: "Starting my journey of self check in"
 date: 2022-10-09
 ---  
 
-I have been trying to add a daily check in routine
+I have been trying to add a daily check in routine. It starts with defining regulation.
 
 Self-regulation refers to the ability of individuals to control and manage their own thoughts, emotions, and behaviors in order to meet personal and social goals. It involves setting and following rules, monitoring one's own actions, and making adjustments to meet desired outcomes. Self-regulation is important for personal and social success and is developed through various forms of learning and experience throughout life.
 
