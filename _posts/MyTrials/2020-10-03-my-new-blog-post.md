@@ -3,7 +3,9 @@ title: "Firmware Error Handling"
 date: 2020-10-03
 ---  
 
-Firmware error handling is an important aspect of firmware design, as errors can occur in any system, including in the firmware of a device. Error handling involves detecting and responding to errors or exceptional conditions to ensure the device continues to operate correctly.
+Firmware error handling is an important aspect of firmware design, as errors can occur in any system, including in the firmware of a device.   
+
+Error handling involves detecting and responding to errors or exceptional conditions to ensure the device continues to operate correctly.
 
 Some common techniques for firmware error handling include:
 
