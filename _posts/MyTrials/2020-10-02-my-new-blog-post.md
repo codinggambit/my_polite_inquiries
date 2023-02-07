@@ -3,7 +3,9 @@ title: "Firmware Memory Management"
 date: 2020-10-02
 ---  
 
-Firmware memory management is a critical aspect of firmware design, as the amount of memory available on a device is typically limited. The firmware must manage this limited memory effectively to ensure the device functions as intended.
+Firmware memory management is a critical aspect of firmware design, as the amount of memory available on a device is typically limited.   
+
+The firmware must manage this limited memory effectively to ensure the device functions as intended.
 
 Some common techniques for firmware memory management include:
 
