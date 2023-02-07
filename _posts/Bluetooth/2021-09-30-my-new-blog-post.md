@@ -3,7 +3,9 @@ title: "Bluetooth Profiles"
 date: 2021-09-30
 ---  
 
-Bluetooth profiles are specifications that determine how Bluetooth-enabled devices interact with each other. They define the specific functions and features that are available for a given type of device. Some common Bluetooth profiles include:
+Bluetooth profiles are specifications that determine how Bluetooth-enabled devices interact with each other.   
+
+They define the specific functions and features that are available for a given type of device. Some common Bluetooth profiles include:
 
     Advanced Audio Distribution Profile (A2DP): This profile is used for streaming high-quality audio from one device to another, such as from a smartphone to a wireless speaker.
 
