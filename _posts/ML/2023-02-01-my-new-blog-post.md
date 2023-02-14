@@ -6,7 +6,7 @@ date: 2023-02-01
 [AWS and ML on Udacity](https://learn.udacity.com/courses/ud065)  
 
 [AWS Deep Racer Linkedin Course](https://www.linkedin.com/learning/machine-learning-with-aws-deepracer)  
-[Deep Racer Course](https://aws.amazon.com/deepracer/)  
+[Deep Racer on AWS](https://aws.amazon.com/deepracer/)  
 
 [Udacity Sponsorship](https://www.udacity.com/aws-deepracer-scholarship)  
 
