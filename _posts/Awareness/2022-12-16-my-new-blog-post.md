@@ -7,6 +7,7 @@ My Quantic MBA Repertoire
 
 Capstone Presentation [LIFELight](https://www.youtube.com/watch?v=3O7DP-3s1Sc)  
 Startegy Q Presentation [Project Q](https://www.youtube.com/watch?v=Pz6Mxum4yYM)  
+PEST Analysis Managed by Q [Presentation](https://vimeo.com/manage/videos/542455782)  
 Business Plan [Financials](https://github.com/codinggambit/pdfstore/blob/main/LifeLight%20Financial%20Statements%20%26%20Analysis.pdf)  
 Business Plan [Documentation](https://github.com/codinggambit/pdfstore/blob/main/LIFELight%20Business%20Plan.pdf)  
 Marketing and Economies Presentation [Recording](https://www.loom.com/share/28591adaefee4c85b4f9d8e89836ca65)  
