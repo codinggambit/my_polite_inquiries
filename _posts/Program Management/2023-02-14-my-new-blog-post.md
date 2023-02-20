@@ -1,11 +1,11 @@
 ---
-title: "Project Budgeting"
+title: "Budgeting Challenges"
 date: 2023-02-14
 ---
 
 Overcoming budgeting challenges
 
-As you have learned, effective budgeting can set you up for success as a project manager. This reading will discuss some of the most common budgeting challenges you may encounter as a project manager and how to manage them.  
+Effective budgeting can set you up for success as a project manager. This reading will discuss some of the most common budgeting challenges you may encounter as a project manager and how to manage them.  
 
 Challenge 1: Budget pre-allocation
 
