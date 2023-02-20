@@ -1,6 +1,6 @@
 ---
 title: "Program Manager Competencies"
-date: 2023-02-02
+date: 2023-02-06
 ---
 
 Key competencies: Flexibility and handling ambiguity  
