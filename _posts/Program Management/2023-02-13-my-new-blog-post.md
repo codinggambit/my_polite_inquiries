@@ -1,5 +1,5 @@
 ---
-title: "Program Manager Responsibilities"
+title: "Project Budgeting"
 date: 2023-02-13
 ---
 Project budgeting 101
