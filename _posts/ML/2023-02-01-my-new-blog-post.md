@@ -1,5 +1,5 @@
 ---
-title: "AWS Deeep Racer using ML"
+title: "AWS Deep Racer using ML"
 date: 2023-02-01
 ---  
 
