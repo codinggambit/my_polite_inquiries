@@ -5,9 +5,9 @@ date: 2023-02-06
 
 Key competencies: Flexibility and handling ambiguity  
 
-In the previous video, we discussed the four key competencies of a project manager: enabling decision-making, communicating and escalating, strong organizational skills, and flexibility. With time and practice, you will master these skills to help you become successful in a project management role. In this reading, we’ll dig deeper into why flexibility is essential for effective project management and how you can help your team deal with ambiguity. 
+In the previous video, we discussed the four key competencies of a program manager: enabling decision-making, communicating and escalating, strong organizational skills, and flexibility. With time and practice, you will master these skills to help you become successful in a program management role. In this reading, we’ll dig deeper into why flexibility is essential for effective program management and how you can help your team deal with ambiguity. 
 
-First, let’s review the other project management competencies you’ve learned about so far.  
+First, let’s review the other program management competencies you’ve learned about so far.  
 
 Enabling decision-making  
 
@@ -15,7 +15,7 @@ You can help team members feel empowered from the start of your project by makin
 
 Communicating and escalating  
 
-Project management requires clearly communicating project goals and expectations, team member roles and responsibilities, and constructive feedback. Knowing how to effectively communicate and when to escalate issues to management is key to keeping you, your team, and your organization on the path to success. When escalation is required, try to approach management with both the problem and the potential solution or suggestions. This will show that you’re taking initiative as a project manager. 
+Program management requires clearly communicating project goals and expectations, team member roles and responsibilities, and constructive feedback. Knowing how to effectively communicate and when to escalate issues to management is key to keeping you, your team, and your organization on the path to success. When escalation is required, try to approach management with both the problem and the potential solution or suggestions. This will show that you’re taking initiative as a program manager. 
 
 Strong organizational skills  
 
@@ -30,14 +30,14 @@ If you demonstrate that it is important for you, as a leader, to stay organized 
     Quality assurance tools (evaluations, productivity trackers, reports)
 
 You may need to experiment with different organizational approaches to determine what works best for you and your team.
-Image of a project manager with an agenda and a clock keeping the team on time and organized during a meeting  
+Image of a program manager with an agenda and a clock keeping the team on time and organized during a meeting  
 
 Flexibility
 
-All project managers need the ability to adapt and overcome changes and challenges. Let’s further explore why flexibility is such a critical project management skill and discuss how it can help prepare your team for change, mitigate risks, and handle ambiguity. 
+All program managers need the ability to adapt and overcome changes and challenges. Let’s further explore why flexibility is such a critical program management skill and discuss how it can help prepare your team for change, mitigate risks, and handle ambiguity. 
 Flexible planning
 
-Change is inevitable, and the more flexible you are as a project manager, the more successful you will be throughout your career. These flexible planning strategies can help you manage your project during times of unpredictability: 
+Change is inevitable, and the more flexible you are as a program manager, the more successful you will be throughout your career. These flexible planning strategies can help you manage your project during times of unpredictability: 
 
     Assess external constraints. When planning your project, take external events into account, such as national holidays and team member vacations and sick leave. Leaving extra time in the schedule for these inevitable events up front can help minimize the impact to your project.
 
@@ -47,11 +47,11 @@ Change is inevitable, and the more flexible you are as a project manager, the mo
 
 Handling ambiguity  
 
-Ambiguity can be a big challenge in managing projects. Project managers often face ambiguity in goals, requirements, schedules, vision, or other areas related to the project. Your team will look to you to lead during times of ambiguity and change, and flexibility is especially important during these instances. Here are some different ways to help your team deal with ambiguity: 
+Ambiguity can be a big challenge in managing projects. Program managers often face ambiguity in goals, requirements, schedules, vision, or other areas related to the project. Your team will look to you to lead during times of ambiguity and change, and flexibility is especially important during these instances. Here are some different ways to help your team deal with ambiguity: 
 
     Keep calm. In uncertain times, handling ambiguity with grace and poise will help inspire the members of your team to do the same. 
 
-    Express empathy. As a project manager, it is important to try to understand what your team is thinking and feeling, especially during times of ambiguity. Let your team members know that you care about the challenges they are facing and are there to support them.
+    Express empathy. As a program manager, it is important to try to understand what your team is thinking and feeling, especially during times of ambiguity. Let your team members know that you care about the challenges they are facing and are there to support them.
 
     Communicate what you know clearly. Define the aspects of the project that are confirmed and will not change. This helps your team get a better sense of what to expect, regardless of any aspects of the project that are still unknown or changing.
 
@@ -61,7 +61,7 @@ Ambiguity can be a big challenge in managing projects. Project managers often fa
 
 Key takeaway  
 
-As a project manager, having the flexibility and ability to handle ambiguity in a rapidly-changing business setting gives you an advantage. Mastering these competencies, along with enabling decision-making, effective communication skills, and strong organizational skills, will allow you to innovate and grow as a project manager and leader.
+As a program manager, having the flexibility and ability to handle ambiguity in a rapidly-changing business setting gives you an advantage. Mastering these competencies, along with enabling decision-making, effective communication skills, and strong organizational skills, will allow you to innovate and grow as a program manager and leader.
 
 Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
 
