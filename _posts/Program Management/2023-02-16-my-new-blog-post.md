@@ -1,6 +1,6 @@
 ---
 title: "Project Procurement"
-date: 2023-02-02
+date: 2023-02-16
 ---
 
 Tips for the procurement process
