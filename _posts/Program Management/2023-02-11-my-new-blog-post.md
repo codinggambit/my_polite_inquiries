@@ -5,7 +5,8 @@ date: 2023-02-11
 
 Performing a cost-benefit analysis
 
-Previously, you learned that a cost-benefit analysis is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs. In this reading, we will discuss the benefits of conducting a cost-benefit analysis, guiding questions to help you and your stakeholders conduct one, and how to calculate return on investment (ROI).
+A cost-benefit analysis is the process of adding up the expected value of a project—the benefits—and comparing them to the dollar costs. In this reading, we will discuss the benefits of conducting a cost-benefit analysis, guiding questions to help you and your stakeholders conduct one, and how to calculate return on investment (ROI).
+
 The benefits of a cost-benefit analysis
 
 A cost-benefit analysis can minimize risks and maximize gains for projects and organizations. It can help you communicate clearly with stakeholders and executives and keep your project on track. Because this type of analysis uses objective data, it can help reduce biases and keep stakeholder self-interest from influencing decisions. 
