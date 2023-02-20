@@ -5,7 +5,7 @@ date: 2023-02-06
 
 Key competencies: Flexibility and handling ambiguity  
 
-In the previous video, we discussed the four key competencies of a program manager: enabling decision-making, communicating and escalating, strong organizational skills, and flexibility. With time and practice, you will master these skills to help you become successful in a program management role. In this reading, we’ll dig deeper into why flexibility is essential for effective program management and how you can help your team deal with ambiguity. 
+The four key competencies of a program manager: enabling decision-making, communicating and escalating, strong organizational skills, and flexibility. With time and practice, you will master these skills to help you become successful in a program management role. In this reading, we’ll dig deeper into why flexibility is essential for effective program management and how you can help your team deal with ambiguity. 
 
 First, let’s review the other program management competencies you’ve learned about so far.  
 
