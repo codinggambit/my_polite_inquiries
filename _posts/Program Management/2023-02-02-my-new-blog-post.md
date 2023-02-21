@@ -5,7 +5,7 @@ date: 2023-02-02
 
 Responsibilities that utilize interpersonal skills  
 
-What are the core job responsibilities of program managers? Let’s recap what we learned in the previous video.  
+What are the core job responsibilities of program managers?  
 
 The program manager is responsible for planning, organizing, managing tasks, budgeting, controlling costs, and other factors to help keep the project within budget and on time.  
 
