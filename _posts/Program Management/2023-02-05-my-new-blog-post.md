@@ -12,9 +12,6 @@ Fishbone diagrams help the team to brainstorm potential causes of a problem or r
 
 Case study: Using a fishbone diagram to identify causes of risks  
 
-[Uploading image.png…]()
-
-
 Miguel is a project manager at Office Supply Inc. He is in the planning phase for an upcoming summer promotion project, which will include free delivery of products. Unfortunately, in the past, the company has had trouble delivering its products to downtown office buildings on time. Miguel builds a fishbone diagram to see if he can identify some of the possible causes of this problem in order to mitigate this risk on the current project. He follows these steps to build his diagram:  
 
 Step 1) Define the problem 
