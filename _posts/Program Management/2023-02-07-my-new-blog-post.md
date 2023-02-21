@@ -61,7 +61,8 @@ Communication doesn’t end when you deliver your message, so be sure to follow 
 
     Responding to questions quickly.
 
-In this final step, you will obtain feedback from your audience to ensure that your message was received as you intended. 
+In this final step, you will obtain feedback from your audience to ensure that your message was received as you intended.  
+
 Key takeaways
 
 You now have the steps to communicate effectively as a project manager! You have learned how to foster open, inclusive communication by recognizing and understanding individual differences among your team members. You know how to craft and deliver an appropriate message and the importance of obtaining and addressing feedback. Most importantly, make sure your communications are clear, honest, relevant, and frequent. Following these guidelines will set you up for successful communication throughout your projects. 
