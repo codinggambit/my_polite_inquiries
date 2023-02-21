@@ -6,7 +6,8 @@ date: 2023-02-09
 
 Common myths about Program Managers
 
-We have talked about the skills that program managers need to be successful in their role. Now, let’s debunk some of the common myths about what is needed to be an effective program manager. 
+We have talked about the skills that program managers need to be successful in their role. Now, let’s debunk some of the common myths about what is needed to be an effective program manager.  
+
 Myth: You have to be an expert in the field and have a lot of technical knowledge about the project. 
 
 Reality: There are benefits to the program manager not having a lot of technical knowledge about a project. Rather than getting caught up in the technical details when communicating with management and stakeholders, the program manager can look at all of the different pieces that the cross-functional team is working on and assess how they each contribute to the success of the project. As a program manager, you bring on the right team members—with their differing areas of expertise—and trust them to be able to focus on the technical aspects of the project. Your job is to handle the communication, documentation, and organization necessary to get the project successfully to the finish line. 
