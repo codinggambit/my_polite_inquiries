@@ -4,7 +4,9 @@ date: 2023-02-04
 ---
 
 
-Risk management is the process of identifying and evaluating potential risks and issues that could impact your project. Risk management is an ongoing practice throughout the life cycle of your project. It typically involves some variation of these five steps:
+Risk management is the process of identifying and evaluating potential risks and issues that could impact your project.  
+
+Risk management is an ongoing practice throughout the life cycle of your project. It typically involves some variation of these five steps:
 
     Identify the risk.
 
