@@ -1,30 +1,30 @@
 ---
-title: "Mentoring Cohort Experience"
+title: "Mentoring Cohort Experience with Comotion at UW"
 date: 2023-03-01
 ---
 
 Mentoring Basics and Insights
 
 Some valuable insights:  
-https://lnkd.in/gXbYucCX  
+[why the lean start up changes everything](https://lnkd.in/gXbYucCX)
 
 Lean Canvas:  
-https://lnkd.in/gt7npAYZ  
+[Capture Your Business Model in 20 Minutes - Lean Canvas](https://lnkd.in/gt7npAYZ)  
 
 Value Proposition:  
-https://lnkd.in/gzYKiS3h  
+[Strategyzer's Value Proposition Canvas Explained](https://lnkd.in/gzYKiS3h)  
 
 Competitor Analysis:    
-https://bit.ly/39sS2t9  
+[What's a Competitive Analysis & How Do You Conduct One?](https://bit.ly/39sS2t9)  
 
 Patent Search:  
-https://lnkd.in/grBCdppD  
+[Google Patent search](https://lnkd.in/grBCdppD)  
 
 Legal aspect of Startup formation:  
-https://lnkd.in/gzyugpAs  
+[CoMotion Start Ups Legal Aspects](https://lnkd.in/gzyugpAs)  
 
-and much more to add and learn with UW Youtube Channel:  
-https://lnkd.in/gDKREmX6  
+and much more to add and learn with UW Channel:  
+[UW Comotion](https://lnkd.in/gDKREmX6) 
 
 Daily Check in [Form](https://forms.gle/BRA4EH2sMoZdLPgE8)
 
