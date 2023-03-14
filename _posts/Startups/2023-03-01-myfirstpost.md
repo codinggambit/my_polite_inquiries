@@ -5,7 +5,7 @@ date: 2023-03-01
 
 Mentoring Basics and Insights
 
-Some valuable insights:  
+Lean Startup:  
 [why the lean start up changes everything](https://lnkd.in/gXbYucCX)
 
 Lean Canvas:  
