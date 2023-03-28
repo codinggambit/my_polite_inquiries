@@ -4,7 +4,9 @@ date: 2023-03-12
 ---
 
 
-A customer service chatbot built with LLM can be a valuable tool for businesses of all sizes. These chatbots can help to automate customer service tasks, improve customer satisfaction, and reduce costs.
+A customer service chatbot built with LLM can be a valuable tool for businesses of all sizes.  
+
+These chatbots can help to automate customer service tasks, improve customer satisfaction, and reduce costs.
 
 To build a customer service chatbot with LLM, you will need to:
 
