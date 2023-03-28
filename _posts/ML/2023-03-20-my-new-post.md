@@ -5,7 +5,7 @@ date: 2023-03-20
 
 📄 This is a transcript from AI Test Kitchen.  
 
-👉 [AI Test Kitchen](www.aitestkitchen.withgoogle.com)  
+👉 [AI Test Kitchen](aitestkitchen.withgoogle.com)  
 🗣 It records an interaction with LaMDA, an AI language model.  
 🛠 LaMDA is an early stage technology. It may generate inaccurate/inappropriate information.  
 
