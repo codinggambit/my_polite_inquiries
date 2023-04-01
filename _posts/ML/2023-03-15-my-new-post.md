@@ -1,6 +1,6 @@
 ---
 title: Build a Deep Learning Model with Python
-date: 2023-03-12
+date: 2023-03-15
 ---
 
 Introduction to Deep Learning
