@@ -4,7 +4,7 @@ date: 2023-03-25
 ---
 
 
-Best practices for effective UAT
+Best practices for effective UAT (User Acceptance Testing)
 
 In order to achieve these goals, UAT needs to be conducted thoughtfully. These best practices can help you administer effective UAT: 
 
