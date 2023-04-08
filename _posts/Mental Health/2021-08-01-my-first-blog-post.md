@@ -45,7 +45,7 @@ A few coping mechanisms that individuals can use to manage and reduce stress or 
 10. Practicing self-care, such as taking a relaxing bath or reading a book		
 
 
-There are a verity of types of coping mechanisms that people use to deal with difficult situations. 
+There are a variety of types of coping mechanisms that people use to deal with difficult situations. 
 Some examples include: 
 1. Problem-focused coping: This involves taking practical steps to solve the problem or stressor at hand. 
 2. Emotion-focused coping: This involves managing the emotions associated with the stressor, such as by seeking support from others or engaging in self-care activities. 
